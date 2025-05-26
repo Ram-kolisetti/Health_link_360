@@ -21,7 +21,7 @@ import EmergencyQR from './pages/patient/EmergencyQR'
 import DoctorDashboard from './pages/doctor/DoctorDashboard'
 import PatientSearch from './pages/doctor/PatientSearch'
 import PatientHistory from './pages/doctor/PatientHistory'
-// import LiveChat from './pages/doctor/LiveChat'
+import LiveChat from './pages/doctor/LiveChat'
 
 // Admin Portal
 import AdminRoutes from './routes/AdminRoutes'
@@ -105,11 +105,11 @@ function App() {
                 <PatientHistory />
               </ProtectedRoute>
             } />
-            {/* <Route path="/doctor/live-chat/:patientId" element={
+            <Route path="/doctor/live-chat/:patientId" element={
               <ProtectedRoute allowedRoles={['doctor']}>
                 <LiveChat />
               </ProtectedRoute>
-            } /> */}
+            } />
 
             {/* Admin Portal Routes */}
             <Route path="/admin/*" element={
