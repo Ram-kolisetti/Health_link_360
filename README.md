@@ -79,9 +79,9 @@ npm run preview
 HealthLink360 is fully responsive and works seamlessly across devices:
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Mobile+View" alt="Mobile View" width="20%">
-  <img src="https://via.placeholder.com/350x500?text=Tablet+View" alt="Tablet View" width="30%">
-  <img src="https://via.placeholder.com/500x400?text=Desktop+View" alt="Desktop View" width="40%">
+  <img src="https://ibb.co/7d7W2q28" alt="Mobile View" width="20%">
+  <img src="https://ibb.co/SwshrQqV" alt="Tablet View" width="30%">
+  <img src="https://ibb.co/7JHRQCRV" alt="Desktop View" width="40%">
 </p>
 
 ## 🔒 Security Features
