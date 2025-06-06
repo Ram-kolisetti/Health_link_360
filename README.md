@@ -67,7 +67,7 @@ HealthLink360 is a comprehensive healthcare management platform designed to revo
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/healthlink360.git
+git clone https://github.com/Ram-kolisetti/healthlink360.git
 
 # Navigate to project directory
 cd healthlink360
@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/healthlink360](https://github.com/yourusername/healthlink360)
+Project Link: [https://github.com/Ram-kolisetti/healthlink360](https://github.com/Ram-kolisetti/healthlink360)
 
 ---
 
