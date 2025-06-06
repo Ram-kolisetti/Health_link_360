@@ -9,9 +9,20 @@
 
 HealthLink360 is a comprehensive healthcare management platform designed to revolutionize the way patients, doctors, and administrators interact with healthcare services. Our platform provides a seamless, integrated experience that connects all stakeholders in the healthcare ecosystem.
 
+## 🖥️ Dashboards Preview
+
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=HealthLink360+Dashboard" alt="HealthLink360 Dashboard" width="80%">
+  <img src="img/dashboard1.png" alt="Patient Dashboard" width="90%">
 </p>
+
+<p align="center">
+  <img src="img/dashboard2.png" alt="Doctor Dashboard" width="90%">
+</p>
+
+<p align="center">
+  <img src="img/dashboard3.png" alt="Admin Dashboard" width="90%">
+</p>
+
 
 ## ✨ Key Features
 
@@ -79,9 +90,9 @@ npm run preview
 HealthLink360 is fully responsive and works seamlessly across devices:
 
 <p align="center">
-  <img src="https://ibb.co/7d7W2q28" alt="Mobile View" width="20%">
-  <img src="https://ibb.co/SwshrQqV" alt="Tablet View" width="30%">
-  <img src="https://ibb.co/7JHRQCRV" alt="Desktop View" width="40%">
+  <img src="img/m.png" alt="Mobile View" width="20%">
+  <img src="img/t.png" alt="Tablet View" width="30%">
+  <img src="img/p.png" alt="Desktop View" width="40%">
 </p>
 
 ## 🔒 Security Features
