@@ -130,5 +130,5 @@ Project Link: [https://github.com/Ram-kolisetti/healthlink360](https://github.co
 ---
 
 <p align="center">
-  Made with ❤️ by the HealthLink360 Team
+  Made with ❤️ by the HealthLink360 Team.
 </p>
